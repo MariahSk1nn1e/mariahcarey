@@ -1,0 +1,56 @@
+html, body{
+	background-color: pink;
+}
+p.caption{
+	font-style: italic;
+	color: grey;
+	font-size: 20px;
+}
+
+header{
+	text-align: center;
+	background-color: navy-blue ;
+	background-image: url("art.jpg");
+	background-size: 150px;
+	background-repeat: repeat;
+	color: black;
+	font-size: 35px;
+	font-style: bold;
+}
+
+header img{
+    width: 300px;
+    border-radius: 150px;
+}
+
+.content{
+	text-align: center;
+}
+
+img.creation{
+	width: 100;
+}
+
+h2.A{
+	padding: 10px;
+	color: #4b8ffc;
+}
+
+p.B{
+	font-size: 20px;
+	padding: 0 180px;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #E6E6E6;
+}
+
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}

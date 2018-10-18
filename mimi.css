@@ -1,0 +1,10 @@
+p.caption{
+	font-style: italic;
+	font-color:lightgrey;
+	font-size: 20px;
+}
+header{
+	text-align: center;
+	background-image:url('animated.jpg')
+	background-repeat: repeat;
+}
